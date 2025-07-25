@@ -3,7 +3,7 @@
 ## Requirements 
 
 - Modern CSS Only - no HTML markup, no JS
-- Just drop-in CSS component file and it works 
+- Drop-in CSS component file and it just works 
 - Applies to any naturally vertically overflowing element
 - Modern standards compliant
 - Follows modern best practices
